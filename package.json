@@ -17,8 +17,12 @@
     "hardhat": "^2.14.0"
   },
   "dependencies": {
+    "@chainlink/contracts": "^0.6.1",
     "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
     "@openzeppelin/contracts": "^4.8.3",
+    "@zetachain/addresses-tools": "^0.0.7",
+    "@zetachain/protocol-contracts": "^0.0.7",
     "dotenv": "^16.0.3"
   }
 }
